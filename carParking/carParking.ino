@@ -24,7 +24,7 @@ void loop(){
 
   switch(parkSpace){
     case 1: // 僅剩一個車位
-      setColor(0, 0, 255); // Yello Color
+      setColor(0, 0, 255); // Blue Color
       break;
     case 0: // 沒車位
       setColor(255, 0, 0); // Red Color
