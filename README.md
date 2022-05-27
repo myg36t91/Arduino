@@ -1,6 +1,6 @@
 # Arduino
 
-### Each folder contains .ino / circui_diagram / wiring
+Each folder contains .ino / circui_diagram(select) / wiring(select)
 
 #### AIoT Course Introduction
 <p> week 1. Goal
